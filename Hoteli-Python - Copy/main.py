@@ -13,6 +13,8 @@ def sign_up():
             sign_up()
         if koricnickaLozinka == passwords[h]:
             print('You have successfully logged in like', role[h])
+             print('You have successfully logged in like', role[h])
+              print('You have successfully logged in like', role[h])
             user_menu()
         
 def mainwindow():
